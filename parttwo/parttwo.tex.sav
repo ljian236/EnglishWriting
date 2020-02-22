@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{color}
+\usepackage{ulem}
+
+\begin{document}
+\title{Part Two: Sentence Structure}
+\maketitle
+
+In Part One we dealt with various types of unnecessary words. All the chapters in that part related to one central concern: the need to make an English sentence concise.
+
+In Part Two we shall deal with \uwave{various aspects} of sentence structure. All the chapters in this part will relate to another central concern: the need to make an English sentence clear and logical.
+
+The faults we shall consider in Part Two are, in general, harder to identify and harder to remedy than \uwave{those we studied} in Part One. But by the same token, they are more interesting. And once we have named and analyzed these mistakes, you will be able to recognize and correct them, just as you have learned to recognize and correct unnecessary words.
+
+\section{The Noun Plague}
+
+Plain English is a language based on verbs. It is simple, concise, vigorous and, above all, clear. Chinglish is a language based on nouns --- vague, general, abstract nouns. It is \uwave{complicated, long winded, ponderous, and obscure}.
+
+As we saw in Chapter I, Chinglish contains many nouns that are unnecessary. We examined three types that contribute nothing to the meaning of a sentence and can simply be eliminated:
+
+\begin{itemize}
+  \item redundant nouns (``to accelerate the pace of economic reform'' = ``to accelerate economic reform''; `` there have been good harvests in agriculture'' $=$ ``there have been good harvests '')
+  \item empty nouns (``following the realization of mechanization '' = `` following the mechanization''; ``we must pay attention to promotion'' $=$ ``we must promotee'')
+  \item category nouns (``opposing the practice of extravagance '' $=$ ``opposing extravagance ''; ``to archive the objective of clarity'' = `` to be clear'')
+\end{itemize}
+
+At the same time, we looked at two groups of nouns that do carry necessary meaning but that drag unnecessary words along them. To express their meaning more concisely, we changed them to verbs:
+
+\begin{itemize}
+  \item nouns in the construction unnec. verb + noun (``to make an improvement in '' = ``to improve'')
+  \item ``third word'' nouns in the construction unnec. verb + unnec. noun + third word (``to reach the goal of modernization'' = ``to modernize'')
+\end{itemize}
+
+There are also many constructions involving nouns like ``improvement'' and ``modernization'' that we did not discuss in Chapter I because they do not include unnecessary words. Yet those too should be edited out wherever possible, simply because the nouns are abstract.
+
+In this chapter we shall consider abstract nouns as a class and see both why and how to avoid them. 
+
+
+
+\end{document}
